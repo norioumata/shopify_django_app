@@ -1,0 +1,1 @@
+web: gunicorn norio-shopify-django-app.wsgi
